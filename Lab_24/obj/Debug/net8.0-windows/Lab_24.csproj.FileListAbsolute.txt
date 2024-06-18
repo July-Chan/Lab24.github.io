@@ -1,0 +1,16 @@
+D:\ООП\Lab_24\Lab_24\obj\Debug\net8.0-windows\Lab_24.Form1.resources
+D:\ООП\Lab_24\Lab_24\obj\Debug\net8.0-windows\Lab_24.csproj.GenerateResource.cache
+D:\ООП\Lab_24\Lab_24\obj\Debug\net8.0-windows\Lab_24.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\Lab_24\Lab_24\obj\Debug\net8.0-windows\Lab_24.AssemblyInfoInputs.cache
+D:\ООП\Lab_24\Lab_24\obj\Debug\net8.0-windows\Lab_24.AssemblyInfo.cs
+D:\ООП\Lab_24\Lab_24\obj\Debug\net8.0-windows\Lab_24.csproj.CoreCompileInputs.cache
+D:\ООП\Lab_24\Lab_24\bin\Debug\net8.0-windows\Lab_24.exe
+D:\ООП\Lab_24\Lab_24\bin\Debug\net8.0-windows\Lab_24.deps.json
+D:\ООП\Lab_24\Lab_24\bin\Debug\net8.0-windows\Lab_24.runtimeconfig.json
+D:\ООП\Lab_24\Lab_24\bin\Debug\net8.0-windows\Lab_24.dll
+D:\ООП\Lab_24\Lab_24\bin\Debug\net8.0-windows\Lab_24.pdb
+D:\ООП\Lab_24\Lab_24\obj\Debug\net8.0-windows\Lab_24.dll
+D:\ООП\Lab_24\Lab_24\obj\Debug\net8.0-windows\refint\Lab_24.dll
+D:\ООП\Lab_24\Lab_24\obj\Debug\net8.0-windows\Lab_24.pdb
+D:\ООП\Lab_24\Lab_24\obj\Debug\net8.0-windows\Lab_24.genruntimeconfig.cache
+D:\ООП\Lab_24\Lab_24\obj\Debug\net8.0-windows\ref\Lab_24.dll
